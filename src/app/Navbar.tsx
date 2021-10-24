@@ -12,7 +12,7 @@ import{ VscBell } from "react-icons/vsc"
 
 const Navbar: React.FC = () => {
   return (
-      <Stack>
+      <Stack userSelect="none">
         <Box bg="primary.500" boxShadow="sm" paddingY={3}>
           <Container alignSelf="center" paddingX={0} maxWidth="container.xl">
             <Stack spacing={4} >
