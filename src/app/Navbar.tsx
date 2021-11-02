@@ -33,7 +33,7 @@ const Navbar: React.FC = () => {
                   <Icon as={IoLocationOutline} width={6} height={6} color="blackAlpha.600"/>
                   <Stack spacing={0}>
                     <Text lineHeight="none" fontSize="xs" color="blackAlpha.700">Enviar a Bruno</Text>
-                    <Text lineHeight="none" fontSize="sm">Francia 4380</Text>
+                    <Text lineHeight="none" fontSize="sm">*** ****</Text>
                   </Stack>
                 </Stack>
                 <Stack color="blackAlpha.600" direction="row" lineHeight="none" fontSize="sm" spacing={4}>
