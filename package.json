@@ -1,7 +1,7 @@
 {
   "name": "mercadolibre-detail-clone",
   "version": "0.0.0",
-  "homepage": "http://brunao77.github.io/Challenge-Mercado-Libre",
+  "homepage": "https://brunao77.github.io/Challenge-Mercado-Libre",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
