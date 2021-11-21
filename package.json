@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "homepage": "https://brunao77.github.io/Challenge-Mercado-Libre",
   "scripts": {
+    "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
